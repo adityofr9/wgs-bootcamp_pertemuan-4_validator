@@ -1,0 +1,23 @@
+{
+  "name": "wgs-bootcamp_pertemuan-4_validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityofr9/wgs-bootcamp_pertemuan-4_validator.git"
+  },
+  "author": "AdityoFR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityofr9/wgs-bootcamp_pertemuan-4_validator/issues"
+  },
+  "homepage": "https://github.com/adityofr9/wgs-bootcamp_pertemuan-4_validator#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
